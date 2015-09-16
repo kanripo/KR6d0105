@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿惟越致遮經
+#+DATE: 2015-08-30 19:49:41.610132
+#+PROPERTY: JUAN 0
